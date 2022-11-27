@@ -2,11 +2,6 @@
 Temas:
  - Grafos1
  
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
-
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
@@ -15,7 +10,8 @@ Temas:
 
 ## Sobre 
 Repositório com os problemas resolvidas do beecrowd e hackerrank:
-https://www.beecrowd.com.br/judge/pt/problems/view/1082
+
+https://www.beecrowd.com.br/judge/pt/problems/view/1082  
 https://www.hackerrank.com/challenges/components-in-graph 
  
 ## Instalação 
